@@ -8,6 +8,11 @@ Repositori ini berisi berbagai proyek yang telah saya kerjakan selama perkuliaha
 - Tugas individu
 - Kode sumber dan dokumentasi
 
+## Link Youtube
+```bash
+https://youtu.be/QYjywPP2C_E
+```
+
 ## Cara Menggunakan
 Untuk menjalankan proyek ini, Anda dapat mengkloning repositori ini ke komputer Anda dengan perintah berikut:
 
